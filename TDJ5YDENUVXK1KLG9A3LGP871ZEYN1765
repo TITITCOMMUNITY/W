@@ -1,6 +1,1 @@
-return {
-Admin = {
-987237860795097108
-},
-Buyer = {}
-}
+return { Admin = {987237860795097108},Buyer = {} }
